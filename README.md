@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/zicai1026/ProxyRepo/main/config/convert-phone.
 ```
 
 ```
-https://gitlab.com/zicai1026/ProxyRepo/-/blob/21c73046870eee8df54559be9ef7cbd1c9139466/config/convert-phone.ini
+https://gitlab.com/zicai1026/ProxyRepo/-/raw/main/config/convert-cfw-online.ini
 ```
 * 远程配置(桌面-在线规则)
 
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/zicai1026/ProxyRepo/main/config/convert-cfw-on
 ```
 
 ```
-https://gitlab.com/zicai1026/ProxyRepo/-/blob/21c73046870eee8df54559be9ef7cbd1c9139466/config/convert-cfw-online.ini
+https://gitlab.com/zicai1026/ProxyRepo/-/raw/main/config/convert-cfw-online.ini
 ```
 
 * 远程配置(桌面-本地规则)
@@ -52,6 +52,6 @@ https://raw.githubusercontent.com/zicai1026/ProxyRepo/main/config/convert-cfw-ru
 ```
 
 ```
-https://gitlab.com/zicai1026/ProxyRepo/-/blob/21c73046870eee8df54559be9ef7cbd1c9139466/config/convert-cfw-ruleset.ini
+https://gitlab.com/zicai1026/ProxyRepo/-/raw/main/config/convert-cfw-ruleset.ini
 ```
 
