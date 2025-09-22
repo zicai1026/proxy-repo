@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/zicai1026/ProxyRepo/main/config/convert-phone.
 ```
 
 ```
-https://gitlab.com/zicai1026/ProxyRepo/-/raw/main/config/convert-cfw-online.ini
+https://gitlab.com/zicai1026/ProxyRepo/-/raw/main/config/convert-phone.ini
 ```
 * 远程配置(桌面-在线规则)
 
