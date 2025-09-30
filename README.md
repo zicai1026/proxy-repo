@@ -26,6 +26,7 @@ parsers:
 * 订阅转换地址    <a href="https://sub.xeton.dev" target="_blank">https://sub.xeton.dev</a>
 * 订阅转换地址    <a href="https://nexconvert.com" target="_blank">https://nexconvert.com</a>
 * 订阅转换地址    <a href="https://acl4ssr.netlify.app" target="_blank">https://acl4ssr.netlify.app</a>
+* 订阅转换地址    <a href="https://sub-web.wcc.best/" target="_blank">https://sub-web.wcc.best/</a>
 * 远程配置(安卓-在线规则)
 
 ```
