@@ -1,4 +1,4 @@
-# ProxyRepo
+# proxy-repo
 
 > proxy rules
 
@@ -12,12 +12,12 @@ parsers:
   # 删除服务商提供的策略组和规则
   - reg: ^.*$
     remote:
-      url: https://raw.githubusercontent.com/zicai1026/ProxyRepo/main/clash/parser/clear.js
+      url: https://raw.githubusercontent.com/zicai1026/proxy-repo/main/clash/parser/clear.js
       cache: true
   # 建立自己的配置
   - reg: ^.*$
     remote:
-      url: https://raw.githubusercontent.com/zicai1026/ProxyRepo/main/clash/parser/parser-Loyalsoldier.yaml
+      url: https://raw.githubusercontent.com/zicai1026/proxy-repo/main/clash/parser/parser-Loyalsoldier.yaml
       cache: true
 ```
 
@@ -29,29 +29,29 @@ parsers:
 * 远程配置(安卓-在线规则)
 
 ```
-https://raw.githubusercontent.com/zicai1026/ProxyRepo/main/config/convert-phone.ini
+https://raw.githubusercontent.com/zicai1026/proxy-repo/main/config/convert-phone.ini
 ```
 
 ```
-https://gitlab.com/zicai1026/ProxyRepo/raw/main/config/convert-phone.ini
+https://gitlab.com/zicai1026/proxy-repo/raw/main/config/convert-phone.ini
 ```
 * 远程配置(桌面-在线规则)
 
 ```
-https://raw.githubusercontent.com/zicai1026/ProxyRepo/main/config/convert-cfw-online.ini
+https://raw.githubusercontent.com/zicai1026/proxy-repo/main/config/convert-cfw-online.ini
 ```
 
 ```
-https://gitlab.com/zicai1026/ProxyRepo/raw/main/config/convert-cfw-online.ini
+https://gitlab.com/zicai1026/proxy-repo/raw/main/config/convert-cfw-online.ini
 ```
 
 * 远程配置(桌面-本地规则)
 
 ```
-https://raw.githubusercontent.com/zicai1026/ProxyRepo/main/config/convert-cfw-ruleset.ini
+https://raw.githubusercontent.com/zicai1026/proxy-repo/main/config/convert-cfw-ruleset.ini
 ```
 
 ```
-https://gitlab.com/zicai1026/ProxyRepo/raw/main/config/convert-cfw-ruleset.ini
+https://gitlab.com/zicai1026/proxy-repo/raw/main/config/convert-cfw-ruleset.ini
 ```
 
